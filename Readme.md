@@ -32,3 +32,10 @@ db.users.aggregate([
   {$match: {"favorites.movie": "The Shawshank Redemption"}},
   {$count: "count"}
 ])
+
+### Task 6: Update the zipcode of the user with the email "johndoe@example.com" to "10002".
+---------
+db.users.aggregate([
+  {$match: {email: "johndoe@example.com"}},
+  {$set: { "address.zipcode": "10002" }}
+])
