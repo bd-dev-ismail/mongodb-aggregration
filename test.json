@@ -1,0 +1,287 @@
+[{
+     "name": "John Doe",
+     "email": "johndoe@example.com",
+     "age": 28,
+     "address": {
+       "street": "123 Main St",
+       "city": "New York",
+       "state": "NY",
+       "zipcode": "10001"
+     },
+     "favorites": {
+       "color": "blue",
+       "food": "pizza",
+       "movie": "The Shawshank Redemption"
+     },
+     "friends": [
+       {
+         "name": "Jane Smith",
+         "email": "janesmith@example.com"
+       },
+       {
+         "name": "Mike Johnson",
+         "email": "mikejohnson@example.com"
+       }
+     ]
+   },
+   {
+     "name": "Alice Williams",
+     "email": "alicewilliams@example.com",
+     "age": 35,
+     "address": {
+       "street": "456 Elm St",
+       "city": "San Francisco",
+       "state": "CA",
+       "zipcode": "94101"
+     },
+     "favorites": {
+       "color": "green",
+       "food": "sushi",
+       "movie": "The Godfather"
+     },
+     "friends": [
+       {
+         "name": "Bob Anderson",
+         "email": "bobanderson@example.com"
+       },
+       {
+         "name": "Emily Davis",
+         "email": "emilydavis@example.com"
+       }
+     ]
+   },
+  {
+    "name": "Mark Johnson",
+    "email": "markjohnson@example.com",
+    "age": 42,
+    "address": {
+      "street": "789 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90001"
+    },
+    "favorites": {
+      "color": "red",
+      "food": "steak",
+      "movie": "The Dark Knight"
+    },
+    "friends": [
+      {
+        "name": "Sarah Wilson",
+        "email": "sarahwilson@example.com"
+      },
+      {
+        "name": "David Thompson",
+        "email": "davidthompson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Jennifer Lee",
+    "email": "jenniferlee@example.com",
+    "age": 31,
+    "address": {
+      "street": "321 Pine St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60601"
+    },
+    "favorites": {
+      "color": "purple",
+      "food": "pasta",
+      "movie": "Inception"
+    },
+    "friends": [
+      {
+        "name": "Michael Brown",
+        "email": "michaelbrown@example.com"
+      },
+      {
+        "name": "Emma Wilson",
+        "email": "emmawilson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Robert Smith",
+    "email": "robertsmith@example.com",
+    "age": 40,
+    "address": {
+      "street": "987 Maple St",
+      "city": "Houston",
+      "state": "TX",
+      "zipcode": "77001"
+    },
+    "favorites": {
+      "color": "yellow",
+      "food": "burgers",
+      "movie": "Pulp Fiction"
+    },
+    "friends": [
+      {
+        "name": "Amy Davis",
+        "email": "amydavis@example.com"
+      },
+      {
+        "name": "Jason Wilson",
+        "email": "jasonwilson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarahjohnson@example.com",
+    "age": 29,
+    "address": {
+      "street": "567 Cherry Ln",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101"
+    },
+    "favorites": {
+      "color": "orange",
+      "food": "tacos",
+      "movie": "The Matrix"
+    },
+    "friends": [
+      {
+        "name": "Daniel Davis",
+        "email": "danieldavis@example.com"
+      },
+      {
+        "name": "Olivia Anderson",
+        "email": "oliviaanderson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Emily Brown",
+    "email": "emilybrown@example.com",
+    "age": 25,
+    "address": {
+      "street": "654 Cedar Rd",
+      "city": "Miami",
+      "state": "FL",
+      "zipcode": "33101"
+    },
+    "favorites": {
+      "color": "pink",
+      "food": "ice cream",
+      "movie": "Forrest Gump"
+    },
+    "friends": [
+      {
+        "name": "Christopher Wilson",
+        "email": "christopherwilson@example.com"
+      },
+      {
+        "name": "Sophia Thompson",
+        "email": "sophiathompson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "David Davis",
+    "email": "daviddavis@example.com",
+    "age": 37,
+    "address": {
+      "street": "246 Walnut Ave",
+      "city": "Dallas",
+      "state": "TX",
+      "zipcode": "75201"
+    },
+    "favorites": {
+      "color": "gray",
+      "food": "sushi",
+      "movie": "Fight Club"
+    },
+    "friends": [
+      {
+        "name": "Mia Johnson",
+        "email": "miajohnson@example.com"
+      },
+      {
+        "name": "James Anderson",
+        "email": "jamesanderson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Karen Wilson",
+    "email": "karenwilson@example.com",
+    "age": 33,
+    "address": {
+      "street": "876 Pine Ln",
+      "city": "Boston",
+      "state": "MA",
+      "zipcode": "02101"
+    },
+    "favorites": {
+      "color": "teal",
+      "food": "chocolate",
+      "movie": "Interstellar"
+    },
+    "friends": [
+      {
+        "name": "Andrew Brown",
+        "email": "andrewbrown@example.com"
+      },
+      {
+        "name": "Natalie Johnson",
+        "email": "nataliejohnson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Michael Wilson",
+    "email": "michaelwilson@example.com",
+    "age": 45,
+    "address": {
+      "street": "543 Oak Rd",
+      "city": "Denver",
+      "state": "CO",
+      "zipcode": "80201"
+    },
+    "favorites": {
+      "color": "black",
+      "food": "steak",
+      "movie": "The Lord of the Rings"
+    },
+    "friends": [
+      {
+        "name": "Lily Davis",
+        "email": "lilydavis@example.com"
+      },
+      {
+        "name": "Ryan Thompson",
+        "email": "ryanthompson@example.com"
+      }
+    ]
+  },
+  {
+    "name": "Olivia Anderson",
+    "email": "oliviaanderson@example.com",
+    "age": 27,
+    "address": {
+      "street": "432 Elm Ave",
+      "city": "Austin",
+      "state": "TX",
+      "zipcode": "78701"
+    },
+    "favorites": {
+      "color": "silver",
+      "food": "tacos",
+      "movie": "Inglourious Basterds"
+    },
+    "friends": [
+      {
+        "name": "Ethan Davis",
+        "email": "ethandavis@example.com"
+      },
+      {
+        "name": "Grace Wilson",
+        "email": "gracewilson@example.com"
+      }
+    ]
+  }
+]
