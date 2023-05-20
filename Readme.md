@@ -10,3 +10,10 @@ db.users.aggregate([
     {$match: {email: "johndoe@example.com"}},
     {$project: {email: 1, favouriteMovie: "$favorites.movie"}}
 ])
+
+### Task 3: Find all users with "pizza" as their favorite food and sort them according to age.
+---------
+db.users.aggregate([
+    { $match: { "favorites.food": "pizza" } },
+    { $sort: { age: 1 } }
+])
