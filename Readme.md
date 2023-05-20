@@ -25,3 +25,10 @@ db.users.aggregate([
    //project stage for clear view
    {$project: {age: 1, favouritColor: "$favorites.color"}}
 ])
+
+### Task 5: Count the number of users whose favorite movie is "The Shawshank Redemption."
+---------
+db.users.aggregate([
+  {$match: {"favorites.movie": "The Shawshank Redemption"}},
+  {$count: "count"}
+])
