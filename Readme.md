@@ -17,3 +17,11 @@ db.users.aggregate([
     { $match: { "favorites.food": "pizza" } },
     { $sort: { age: 1 } }
 ])
+
+### Task 4: Find all users over 30 whose favorite color is "green".
+---------
+db.users.aggregate([
+   {$match: {age: {$gt: 30}, "favorites.color": "green"}},
+   //project stage for clear view
+   {$project: {age: 1, favouritColor: "$favorites.color"}}
+])
